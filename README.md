@@ -1,7 +1,7 @@
 # Crazy-Cars-Game 
 
 
-It It´s a game created in Cocos2d-x
+
 
 It consists of 3 levels
 
