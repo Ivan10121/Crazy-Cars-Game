@@ -1,5 +1,5 @@
-# Crazy-Cars-Game
-# A game created in Cocos2d-x
+# Crazy-Cars-Game 
+
 
 It It´s a game created in Cocos2d-x
 
